@@ -1,4 +1,5 @@
-### Olá! sou Gustavo Ribeiro 👋
+## Bem-vindo ao meu GitHub! 
+Sou Gustavo Ribeiro, apaixonado por desenvolvimento de software e sempre em busca de novas tecnologias. Aqui você encontrará projetos que refletem meu aprendizado e minha paixão por codificar.
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@devguxta/videos)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavointech/)
