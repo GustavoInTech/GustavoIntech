@@ -54,7 +54,8 @@ Estas são as principais tecnologias e ferramentas que utilizo no meu dia a dia.
 Aqui estão alguns dos projetos em que estou trabalhando atualmente:
 
 - **[API de Controle de Gastos Pessoais](https://github.com/GustavoInTech/expense-tracker-api.git)**: Uma API robusta para gerenciar finanças pessoais, incluindo recursos de transações, categorias e relatórios.
-- **[Sistema de Gerenciamento de Tarefas](#)**: Um sistema para organizar e acompanhar tarefas diárias, com funcionalidades CRUD e integração com banco de dados.
+- **[API de Gestão de Receitas e Despesas para Pequenas Empresas](https://github.com/GustavoInTech/expense-reporting-system.git)**: Uma API para ajudar pequenas empresas a gerenciar suas finanças, com funcionalidades CRUD para receitas e despesas, categorização de transações, acompanhamento de saldo e relatórios financeiros.
+
 
 ---
 
