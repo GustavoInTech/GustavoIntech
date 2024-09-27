@@ -68,4 +68,4 @@ Estou sempre aberto a colaborações, feedbacks e trocas de ideias. Sinta-se à 
 - [Meu LinkedIn](https://www.linkedin.com/in/gustavointech/)
 ---
 
-Obrigado por visitar meu perfil! Vamos construir o futuro juntos, uma linha de código por vez. 😊
+Obrigado por visitar meu perfil! Vamos construir o futuro juntos, uma linha de código por vez.
