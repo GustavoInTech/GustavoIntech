@@ -25,7 +25,7 @@ Siga-me nas redes sociais e acompanhe minha jornada de aprendizado e desenvolvim
 Estas são as principais tecnologias e ferramentas que utilizo no meu dia a dia. Estou sempre explorando novas linguagens e frameworks para ampliar meu conhecimento e habilidades.
 
 <div align="center" style="display: inline_block">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,python,react,aws,docker" height="60" alt="tech logos" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,python,react,aws" height="60" alt="tech logos" />
 </div>
 
 ---
