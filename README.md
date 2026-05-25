@@ -1,71 +1,144 @@
-# 🌟 Bem-vindo ao Universo de Código do Gustavo Rodrigues!
+# Olá, eu sou o Gustavo Rodrigues 👋
 
-## Sobre Mim
-Olá! Eu sou o Gustavo Rodrigues, um desenvolvedor apaixonado por tecnologia e sempre em busca de aprender algo novo. Para mim, programação é mais do que apenas escrever código; é sobre resolver problemas, inovar e transformar ideias em realidade. 
+Desenvolvedor Backend Java em formação, estudante de Engenharia de Software e apaixonado por construir soluções reais com tecnologia.
 
-> "A tecnologia move o mundo, e eu estou aqui para ser parte dessa mudança."
+Tenho foco no desenvolvimento de APIs REST, sistemas web e aplicações orientadas a regras de negócio utilizando Java, Spring Boot, PostgreSQL, Angular e boas práticas de desenvolvimento.
 
----
-
-## 🌐 Vamos nos Conectar?
-
-Siga-me nas redes sociais e acompanhe minha jornada de aprendizado e desenvolvimento:
-
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@devguxta/videos)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavointech/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavointech/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/gustavointech)
-
-> "Conectar pessoas através da tecnologia é meu superpoder!"
+Atualmente estou evoluindo projetos práticos voltados para cenários reais, como gestão de chamados, controle financeiro e automações com inteligência artificial.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Sobre mim
 
-Estas são as principais tecnologias e ferramentas que utilizo no meu dia a dia. Estou sempre explorando novas linguagens e frameworks para ampliar meu conhecimento e habilidades.
-
-<div align="center" style="display: inline_block">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,python,angular,aws" height="60" alt="tech logos" />
-</div>
+- 🎓 Estudante de Engenharia de Software
+- 💻 Foco em desenvolvimento backend com Java e Spring Boot
+- 🔐 Experiência prática com autenticação JWT e controle de acesso por perfis
+- 🗄️ Conhecimento em PostgreSQL, MySQL, Supabase, JPA/Hibernate e Flyway
+- 🌐 Integração frontend/backend com Angular, React e TypeScript
+- 🤖 Interesse em IA aplicada ao desenvolvimento de software e automações
+- 📌 Buscando oportunidades como Estagiário ou Desenvolvedor Java Júnior
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
+## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavointech&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavointech&layout=compact&theme=radical&hide_border=true" height="180" alt="Linguagens mais usadas" />
+
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,hibernate,angular,react,ts,js,docker,git,github,postman,aws" height="60" alt="Tech Stack" />
+
+</div>
+
+<br>
+
+**Principais tecnologias que utilizo:**
+
+Java • Spring Boot • Spring Security • JWT • JPA/Hibernate • PostgreSQL • MySQL • Supabase • Flyway • Angular • React • TypeScript • Docker • Git • GitHub • Postman
+
+---
+
+## 📌 Projetos em destaque
+
+### 🔹 [Helpdesk Corporativo](https://github.com/GustavoInTech/helpdesk-corporativo.git)
+
+Sistema fullstack de gestão de chamados corporativos, desenvolvido com Java 21, Spring Boot, Angular, PostgreSQL/Supabase, autenticação JWT e controle de acesso por perfis.
+
+**Principais recursos:**
+
+- Autenticação com JWT
+- Controle de acesso por roles: ADMIN, ATENDENTE e SOLICITANTE
+- Abertura e acompanhamento de chamados
+- Dashboard administrativo
+- Filtros por status, prioridade e categoria
+- Cadastro de usuários e categorias
+- Migrations com Flyway
+- Integração completa entre frontend e backend
+
+**Tecnologias:** Java 21, Spring Boot, Angular, PostgreSQL, Supabase, JWT, Flyway
+
+---
+
+### 🔹 [Agente de Triagem de Leads com IA](https://github.com/GustavoInTech/lead-triage-agent.git)
+
+API para análise e qualificação de leads usando inteligência artificial, persistência em banco de dados e envio de notificações via webhook.
+
+**Principais recursos:**
+
+- Recebimento de leads via API
+- Análise com IA ou mock analyzer
+- Geração de score de qualificação
+- Persistência com PostgreSQL/Supabase
+- Integração com webhook para automações
+- Arquitetura preparada para múltiplos provedores de IA
+
+**Tecnologias:** Java 21, Spring Boot, Supabase, PostgreSQL, Flyway, Webhooks, IA
+
+---
+
+### 🔹 [API de Controle de Gastos Pessoais](https://github.com/GustavoInTech/expense-tracker-api.git)
+
+API REST para controle de finanças pessoais, permitindo o cadastro de usuários, categorias e transações financeiras.
+
+**Principais recursos:**
+
+- Cadastro de usuários
+- Registro de receitas e despesas
+- Organização por categorias
+- Consulta de transações
+- Estrutura backend com Spring Boot
+- Persistência em banco de dados relacional
+
+**Tecnologias:** Java, Spring Boot, MySQL, JPA/Hibernate
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img 
+    align="center" 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api?username=GustavoInTech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_border=false" 
+  />
+  <img 
+    align="center" 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoInTech&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" 
+  />
+</p>
+
+---
+
+## 🌱 Atualmente estudando
+
+- Arquitetura backend
+- Spring Security
+- Testes automatizados
+- Docker
+- Microsserviços
+- Boas práticas com Java
+- Integração de IA em aplicações reais
+
+---
+
+## 🌐 Vamos nos conectar?
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavointech/)
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gustavointech-portfolio.vercel.app)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavointech/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@devguxta/videos)
+
 </div>
 
 ---
 
-## 🌱 Sempre Aprendendo
+## 📫 Contato
 
-- 💻 Estudante de Engenharia de Software
-- 🎯 Focado em desenvolvimento backend com Java e Spring Boot
-- 🔍 Explorando novas ferramentas e metodologias de desenvolvimento
-
-> "A jornada do aprendizado é infinita. Cada linha de código escrita é um passo em direção ao conhecimento."
+- LinkedIn: [linkedin.com/in/gustavointech](https://www.linkedin.com/in/gustavointech/)
+- Portfólio: [gustavointech-portfolio.vercel.app](https://gustavointech-portfolio.vercel.app)
+- GitHub: [github.com/GustavoInTech](https://github.com/GustavoInTech)
 
 ---
 
-## ✨ Projetos Destaque
-
-Aqui estão alguns dos projetos em que estou trabalhando atualmente:
-
-- **[API de Controle de Gastos Pessoais](https://github.com/GustavoInTech/expense-tracker-api.git)**: Uma API robusta para gerenciar finanças pessoais, incluindo recursos de transações, categorias e relatórios.
-- **[API de Gestão de Receitas e Despesas para Pequenas Empresas](https://github.com/GustavoInTech/expense-reporting-system.git)**: Uma API para ajudar pequenas empresas a gerenciar suas finanças, com funcionalidades CRUD para receitas e despesas, categorização de transações, acompanhamento de saldo e relatórios financeiros.
-
-
----
-
-## 💬 Vamos Conversar?
-
-Estou sempre aberto a colaborações, feedbacks e trocas de ideias. Sinta-se à vontade para entrar em contato!
-
-> "A colaboração é a chave para a inovação. Vamos construir algo incrível juntos!"
-
-- [Meu LinkedIn](https://www.linkedin.com/in/gustavointech/)
----
-
-Obrigado por visitar meu perfil! Vamos construir o futuro juntos, uma linha de código por vez. 🎯
+Sempre buscando evoluir como desenvolvedor, construir projetos com propósito e transformar conhecimento em soluções reais.
